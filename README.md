@@ -1,4 +1,4 @@
-### Jitz grad: 12/33 (Määnti, 2021-12-27 18:26:00
+### Jitz grad: 12/33 (Määnti, 2021-12-27 18:27:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

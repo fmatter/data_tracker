@@ -1,4 +1,4 @@
-### Jitz grad: 28/33 (Zysti, 2021-12-28 18:50:00
+### Jitz grad: 20/33 (Zysti, 2021-12-28 18:51:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

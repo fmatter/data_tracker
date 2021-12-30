@@ -1,4 +1,4 @@
-Nid offe.
+### Jitz grad: -1/33 (Donnsti, 2021-12-30 11:30:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

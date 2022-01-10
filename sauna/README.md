@@ -1,7 +1,7 @@
-### Jitz grad: 39/33 (Zysti, 2022-01-04 19:43:00
+### Jitz grad: 5/33 (Määnti, 2022-01-10 16:28:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)
 
-### E durschnittleche Zysti:
-![Graph](Zysti.png)
+### E durschnittleche Määnti:
+![Graph](Määnti.png)

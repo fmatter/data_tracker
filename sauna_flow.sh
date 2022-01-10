@@ -1,4 +1,4 @@
-cd /home/pi/data_tracker/sauna
+cd /home/pi/data_tracker
 export PYTHONPATH=../track_venv/bin/python
 source ../track_venv/bin/activate
 python get_sauna_data.py

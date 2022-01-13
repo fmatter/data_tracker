@@ -1,4 +1,4 @@
-### Jitz grad: 13/33 (Donnsti, 2022-01-13 15:30:00
+### Jitz grad: 14/33 (Donnsti, 2022-01-13 15:35:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

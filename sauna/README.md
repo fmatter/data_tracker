@@ -3,5 +3,5 @@ Nid offe.
 ### Hütige Vrlouf:
 ![Graph](Today.png)
 
-### E durschnittleche Donnsti:
-![Graph](Donnsti.png)
+### E durschnittleche Fryti:
+![Graph](Fryti.png)

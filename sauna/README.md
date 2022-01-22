@@ -1,7 +1,7 @@
-### Jitz grad: 13/33 (Samsti, 2022-01-22 15:35:00
+### Jitz grad: 12/33 (Määnti, 2021-11-01 00:00:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)
 
-### E durschnittleche Samsti:
-![Graph](Samsti.png)
+### E durschnittleche Määnti:
+![Graph](Määnti.png)

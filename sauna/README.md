@@ -1,4 +1,4 @@
-### Jitz grad: 13/33 (Määnti, 2022-01-24 20:10:00
+### Jitz grad: 13/33 (Määnti, 2022-01-24 20:15:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

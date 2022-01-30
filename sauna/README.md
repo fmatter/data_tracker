@@ -1,4 +1,4 @@
-### Jitz grad: 20/33 (Sunnti, 2022-01-30 19:55:00
+### Jitz grad: 16/33 (Sunnti, 2022-01-30 20:00:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

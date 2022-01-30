@@ -1,7 +1,7 @@
-### Jitz grad: 32/33 (Donnsti, 2022-01-27 20:25:00
+### Jitz grad: 35/33 (Sunnti, 2022-01-30 18:55:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)
 
-### E durschnittleche Donnsti:
-![Graph](Donnsti.png)
+### E durschnittleche Sunnti:
+![Graph](Sunnti.png)

@@ -1,4 +1,4 @@
-### Jitz grad: 0/35 (Samsti, 2022-02-19 11:45:00
+### Jitz grad: 3/35 (Samsti, 2022-02-19 11:50:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

@@ -1,4 +1,4 @@
-### Jitz grad: -1/35 (Määnti, 2022-02-21 12:10:00
+### Jitz grad: -1/35 (Määnti, 2022-02-21 12:15:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

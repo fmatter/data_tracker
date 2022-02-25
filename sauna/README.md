@@ -1,4 +1,4 @@
-### Jitz grad: 31/35 (Fryti, 2022-02-25 16:55:00
+### Jitz grad: 33/35 (Fryti, 2022-02-25 17:00:00
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

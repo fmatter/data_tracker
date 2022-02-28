@@ -1,4 +1,4 @@
-### Jitz grad: 32/35 (Määnti, 2022-02-28 21:25:00
+Nid offe.
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)

@@ -1,4 +1,4 @@
-### Jitz grad: 24/35 (Zysti, 2022-03-01 21:25:00
+Nid offe.
 
 ### Hütige Vrlouf:
 ![Graph](Today.png)
